@@ -8,6 +8,7 @@
 [6\. 기능 설명](#6-기능-설명)  
 [7\. 후기](#7-후기)
 
+<br/><br/><br/>
 \* '파라다이스호텔 부산' 을 벤치마킹한 프로젝트입니다!
 
 사이트 주소 : [https://www.busanparadisehotel.co.kr/front](https://www.busanparadisehotel.co.kr/front)
