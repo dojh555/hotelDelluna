@@ -28,6 +28,8 @@
 
 ---
 
+<br/><br/><br/>
+
 ## **[2\. 개요](#index)**
 
 #### 1) 수행기간
@@ -58,6 +60,8 @@
 
 ---
 
+<br/><br/><br/>
+
 ## **[3\. 개발환경](#index)**
 
 -   Windows 10
@@ -69,6 +73,8 @@
 -   mybatis 3.4.1
 
 ---
+
+<br/><br/><br/>
 
 ## **[4\. 설계](#index)**
 
@@ -106,9 +112,13 @@
 
 ## **[5\. spring 구조](#index)**
 
+<br/><br/><br/>
+
 [##_Image|kage@dmoIHx/btrdInB3cCD/6wq37TQ8CQT8LjjxbDuIBK/img.png|alignCenter|data-origin-width="1234" data-origin-height="640" data-ke-mobilestyle="widthOrigin"|||_##]
 
 ---
+
+<br/><br/><br/>
 
 ## **[6\. 기능 설명](#index)**
 
@@ -178,6 +188,8 @@
 <table style="border-collapse: collapse; width: 68.3177%; height: 70px;" border="1" width="219" data-ke-align="alignLeft" data-ke-style="style3"><tbody><tr style="height: 10px;"><td style="width: 99.8296%; height: 10px;" colspan="2"><span style="color: #000000;"><b>DEVELOP Description</b><br></span></td></tr><tr style="height: 10px;"><td style="width: 5.62181%; height: 10px;" height="10px"><span style="color: #000000;">1</span></td><td style="width: 94.2078%; height: 10px;">가입한 회원 리스트,&nbsp;<span style="color: #000000;">상세정보 확인가능</span></td></tr><tr style="height: 10px;"><td style="width: 5.62181%; height: 10px;"><span style="color: #000000;">2</span></td><td style="width: 94.2078%; height: 10px;"><span style="color: #000000;">등록한<span>&nbsp;</span></span><span style="color: #000000;">객실목록</span><span style="color: #000000;"><span>&nbsp;</span>확인 가능</span><span style="color: #000000;"><br></span><span style="color: #000000;">각 옵션</span><span style="color: #000000;">,<span>&nbsp;</span></span><span style="color: #000000;">상태별로</span><span style="color: #000000;"><span>&nbsp;</span>필터링</span><span style="color: #000000;">하여 검색 가능</span></td></tr><tr><td style="width: 5.62181%;"><span style="color: #000000;">3</span></td><td style="width: 94.2078%;"><span><span style="color: #000000;">회원 예약내역 확인 가능</span><span style="color: #000000;"></span></span></td></tr><tr><td style="width: 5.62181%;"><span style="color: #000000;">4</span></td><td style="width: 94.2078%;"><span style="color: #000000;">예약 패키지의 여가시설 확인 가능</span></td></tr></tbody></table>
 
 ---
+
+<br/><br/><br/>
 
 ## **[7\. 후기](#index)**
 
