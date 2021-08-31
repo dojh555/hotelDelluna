@@ -15,9 +15,9 @@
 -   hotel Delluna 사이트 : [http://3.38.102.192:8080/](http://3.38.102.192:8080/)
 -   github 사이트 : [https://github.com/dojh555/hotelDelluna](https://github.com/dojh555/hotelDelluna)
 
-<br/><br/><br/>
-
 ---
+
+<br/><br/><br/>
 
 ## **[1\. 목적](#index)**
 
