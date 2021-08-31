@@ -64,11 +64,11 @@
 
 ## **[3\. 개발환경](#목차)**
 
--   Front-end 언어
+#### Front-end 언어
  JSP, HTML, CSS, JS, jQeury, Ajax
--   Back-end 언어
+#### Back-end 언어
  JAVA, Spring, Mybatis, Mysql
--   커뮤니케이션
+#### 커뮤니케이션
  Git/ Github
 
 ---
