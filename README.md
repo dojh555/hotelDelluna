@@ -64,13 +64,12 @@
 
 ## **[3\. 개발환경](#목차)**
 
--   Windows 10
--   JAVA JDK 1.8.0\_40
--   Eclipse 2020-06
--   Springframework 5.0.2
--   Tomcat 8.5
--   Mysql 8.0- Mysql-Jdbc 8.0.24
--   mybatis 3.4.1
+-   Front-end 언어
+ JSP, HTML, CSS, JS, jQeury, Ajax
+-   Back-end 언어
+ JAVA, Spring, Mybatis, Mysql
+-   커뮤니케이션
+ Git/ Github
 
 ---
 
