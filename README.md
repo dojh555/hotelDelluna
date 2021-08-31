@@ -82,31 +82,31 @@
 
 -   Total ERD
 
-[##_Image|kage@t80Jw/btrdIl5iq0X/rPPnwtQid9GkJ6uFg8grL1/img.png|alignCenter|data-origin-width="1223" data-origin-height="597" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537374-afb78967-37a9-43c8-bb14-67a4089d6730.png)
 
 -   예약 ERD
 
-[##_Image|kage@8G23H/btrdJ4hrRxr/LOlutithf1pqMkxKJKcZi0/img.png|alignCenter|data-origin-width="807" data-origin-height="642" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537390-bb88230c-e7b2-4c77-af26-be6ec83716e2.png)
 
 #### 2) UML ( startUML 사용 )
 
 2-1) Package Diagram
 
-[##_Image|kage@bcRKRh/btrdC5JpBXR/vNvsN67k7O5OPAmgFQsRiK/img.png|alignCenter|data-origin-width="995" data-origin-height="442" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537411-922a9218-9419-4f64-979a-c932655f3ee1.png)
 
 2-2) Class Diagram (Business Layer, Presentation Layer)
 
 -   member
 
-[##_Image|kage@bzYiGU/btrdJjFUCB0/PRVlcuof5WbtpXKL25tHkk/img.png|alignCenter|data-origin-width="998" data-origin-height="635" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537428-967c23cd-976b-43ed-8578-c14d32504e44.png)
 
 -   room, reservation
 
-[##_Image|kage@cCLsDs/btrdFnCyAGO/lQu1yKS1jj6gjW6y8Qtfdk/img.png|alignCenter|data-origin-width="957" data-origin-height="629" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537443-34fd3a0d-85e2-4c52-8f61-f63bc5220cd8.png)
 
 -   point
 
-[##_Image|kage@cdiZJb/btrdC4DIgFJ/2FadzKR1LKrQMKwAVFi5jK/img.png|alignCenter|data-origin-width="708" data-origin-height="565" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537459-3e9898e3-de73-4987-9d50-04dcac8fb8a2.png)
 
 ---
 
@@ -114,7 +114,7 @@
 
 <br/><br/><br/>
 
-[##_Image|kage@dmoIHx/btrdInB3cCD/6wq37TQ8CQT8LjjxbDuIBK/img.png|alignCenter|data-origin-width="1234" data-origin-height="640" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537471-64c2a0af-5747-4e98-8063-22a192cfa850.png)
 
 ---
 
@@ -126,7 +126,7 @@
 
 -   회원가입1 - 본인인증
 
-[##_Image|kage@533ZL/btrdFmRcw7V/c2XgMgMK6URqRE4nyr18aK/img.png|alignCenter|data-origin-width="995" data-origin-height="622" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537498-ee1a385c-8866-4d12-941f-000df48cf6a5.png)
 
 <table style="border-collapse: collapse; width: 69.1842%; height: 40px;" border="1" width="219" data-ke-align="alignLeft" data-ke-style="style3"><tbody><tr style="height: 10px;"><td style="width: 576.969px; height: 10px; text-align: center;" colspan="2"><span style="color: #000000;"><b>DEVELOP Description</b><br></span></td></tr><tr style="height: 10px;"><td style="width: 15.2969px; height: 10px;" height="10px"><span style="color: #000000;">1</span></td><td style="width: 544.672px; height: 10px;"><span style="color: #000000;">예약에 사용될 회원의 개인정보에 관한 약관 안내 및 동의</span></td></tr><tr style="height: 10px;"><td style="width: 15.2969px; height: 10px;" height="10px"><span style="color: #000000;">2</span></td><td style="width: 544.672px; height: 10px;"><span style="color: #000000;">이메일 : &nbsp;javax.mail1.6.1 ver, ajax 로 요청</span></td></tr><tr style="height: 10px;"><td style="width: 15.2969px; height: 10px;" height="10px"><span style="color: #000000;">3</span></td><td style="width: 544.672px; height: 10px;"><span style="color: #000000;">Ajax 로 서버 session에 저장한 인증코드와 일치여부 확인</span></td></tr></tbody></table>
 
@@ -135,7 +135,7 @@
 
 -   회원 가입2 - 회원 정보입력
 
-[##_Image|kage@xEdGF/btrdK7rsuKd/AdztRhfEYlEbeIqKPuQtWk/img.png|alignCenter|data-origin-width="945" data-origin-height="626" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537520-e480e80e-1b1e-4bd1-a0dd-9a8bd9030af7.png)
 
 <table style="border-collapse: collapse; width: 69.1842%; height: 30px;" border="1" width="219" data-ke-align="alignLeft" data-ke-style="style3"><tbody><tr style="height: 10px;"><td style="width: 576.969px; text-align: center; height: 10px;" colspan="2"><span style="color: #000000;"><b>DEVELOP Description</b><br></span></td></tr><tr style="height: 10px;"><td style="width: 15.2969px; height: 10px;" height="10px"><span style="color: #000000;">1</span></td><td style="width: 544.672px; height: 10px;"><span style="color: #000000;">필수 입력항목 유효성 검사</span></td></tr><tr style="height: 10px;"><td style="width: 15.2969px; height: 10px;" height="10px"><span style="color: #000000;">2</span></td><td style="width: 544.672px; height: 10px;"><span style="color: #000000;">다음 우편번호<span>&nbsp;</span>API<span>&nbsp;</span>를 사용하여 우편번호 검색<span>&nbsp;</span></span><span style="color: #000000;">가능</span></td></tr></tbody></table>
 
@@ -144,7 +144,7 @@
 
 -   로그인
 
-[##_Image|kage@zKh4d/btrdJ4BJECd/hdRkBrDy6jPXYetbBKBKh0/img.png|alignCenter|data-origin-width="985" data-origin-height="584" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537536-fe9d5347-ea6e-4fdb-95ed-e57ec2933d06.png)
 
 <table style="border-collapse: collapse; width: 69.1842%; height: 50px;" border="1" width="219" data-ke-align="alignLeft" data-ke-style="style3"><tbody><tr><td style="width: 99.8316%; text-align: center; height: 10px;" colspan="2"><span style="color: #000000;"><b>DEVELOP Description</b><br></span></td></tr><tr><td style="width: 5.38721%; height: 10px;" height="10px"><span style="color: #000000;">1</span></td><td style="width: 94.4444%; height: 10px;"><span><span style="color: #000000;">Ajax</span><span style="color: #000000;">를 이용하여 </span><span style="color: #000000;">id,pw </span><span style="color: #000000;">일치하는 </span><span style="color: #000000;">회원 확인</span><span style="color: #000000;"></span></span></td></tr></tbody></table>
 
@@ -153,7 +153,7 @@
 
 -   예약1 - 옵션선택
 
-[##_Image|kage@VIYZU/btrdHfqI3Ey/cy8JcfWvKyvBwjNK8Ohcs0/img.png|alignCenter|data-origin-width="870" data-origin-height="661" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537549-24b57b40-5535-4b76-ba63-644ed878a5c6.png)
 
 <table style="border-collapse: collapse; width: 68.3177%; height: 40px;" border="1" width="219" data-ke-align="alignLeft" data-ke-style="style3"><tbody><tr style="height: 10px;"><td style="height: 10px; text-align: center; width: 99.8296%;" colspan="2"><span style="color: #000000;"><b>DEVELOP Description</b><br></span></td></tr><tr style="height: 10px;"><td style="height: 10px; width: 5.62181%;" height="10px"><span style="color: #000000;">1</span></td><td style="height: 10px; width: 94.2078%;"><span style="color: #000000;">날짜</span><span style="color: #000000;">, </span><span style="color: #000000;">인원수 선택 후 </span><span style="color: #000000;">검색 시</span><span style="color: #000000;">,</span><span style="color: #000000;"> </span><span style="color: #000000;">DB</span><span style="color: #000000;">에</span><span style="color: #000000;"> </span><span style="color: #000000;">저장된 예약 가능 상품 출력</span></td></tr><tr style="height: 10px;"><td style="height: 10px; width: 5.62181%;"><span style="color: #000000;">2</span></td><td style="height: 10px; width: 94.2078%;"><span><span style="color: #000000;">예약할 객실타입</span><span style="color: #000000;">,</span><span style="color: #000000;">옵션 </span><span style="color: #000000;">선택 후 가격 출력</span></span><span style="color: #000000;"><br></span><span style="color: #000000;">옵션</span><span style="color: #000000;">: </span><span style="color: #000000;">뷰</span><span style="color: #000000;">, </span><span style="color: #000000;">위치</span><span style="color: #000000;">, </span><span style="color: #000000;">타입으로 순서대로 하위 옵션들을 </span><span style="color: #000000;">ajax </span><span style="color: #000000;">를 통해 출력한다</span><span style="color: #000000;">.</span></td></tr><tr style="height: 10px;"><td style="height: 10px; width: 5.62181%;"><span style="color: #000000;">3</span></td><td style="height: 10px; width: 94.2078%;"><span style="color: #000000;">마지막</span><span style="color: #000000;"> </span><span style="color: #000000;">옵션 선택시 </span><span style="color: #000000;">ajax </span><span style="color: #000000;">를 통해 가격을 출력한다</span><span style="color: #000000;">.</span></td></tr></tbody></table>
 
@@ -162,7 +162,7 @@
 
 -   예약2 - 결제&포인트
 
-[##_Image|kage@b1ewZi/btrdJj0dKeZ/LyJl0VKMZkGEqyBsW7BMe0/img.png|alignCenter|data-origin-width="762" data-origin-height="641" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537571-786c5976-3660-40fd-9513-076965b9ce65.png)
 
 <table style="border-collapse: collapse; width: 68.3177%; height: 40px;" border="1" width="219" data-ke-align="alignLeft" data-ke-style="style3"><tbody><tr style="height: 10px;"><td style="width: 99.8296%; height: 10px; text-align: center;" colspan="2"><span style="color: #000000;"><b>DEVELOP Description</b><br></span></td></tr><tr style="height: 10px;"><td style="width: 5.62181%; height: 10px;" height="10px"><span style="color: #000000;">1</span></td><td style="width: 94.2078%; height: 10px;"><span style="color: #000000;">우측 예약정보들은 이전페이지에서 선택한 옵션들을 출력</span></td></tr><tr style="height: 10px;"><td style="width: 5.62181%; height: 10px;"><span style="color: #000000;">2</span></td><td style="width: 94.2078%; height: 10px;"><span style="color: #000000;">회원의 경우 보유한 포인트로 </span><span style="color: #000000;">차감결제</span><span style="color: #000000;"> 가능</span></td></tr></tbody></table>
 
@@ -171,7 +171,7 @@
 
 -   예약3 - 예약내역
 
-[##_Image|kage@b4RSZG/btrdJkEPROZ/0zNRY46wPIlcrEcvn3Qao0/img.png|alignCenter|data-origin-width="968" data-origin-height="623" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537591-09f915b8-1339-41d7-92a6-568a1f69368b.png)
 
 <table style="border-collapse: collapse; width: 68.3177%; height: 70px;" border="1" width="219" data-ke-align="alignLeft" data-ke-style="style3"><tbody><tr style="height: 10px;"><td style="width: 99.8296%; height: 10px; text-align: center;" colspan="2"><span style="color: #000000;"><b>DEVELOP Description</b><br></span></td></tr><tr style="height: 10px;"><td style="width: 5.62181%; height: 10px;" height="10px"><span style="color: #000000;">1</span></td><td style="width: 94.2078%; height: 10px;"><span style="color: #000000;">예약 후 예약정보 확인가능</span></td></tr><tr style="height: 10px;"><td style="width: 5.62181%; height: 10px;"><span style="color: #000000;">2</span></td><td style="width: 94.2078%; height: 10px;"><span><span style="color: #000000;">포인트 조회 가능<br></span><span style="color: #000000;"><br></span><span style="color: #000000;">적립 </span><span style="color: #000000;">: </span><span style="color: #000000;">예약 후 </span><span style="color: #000000;">결제액의</span><span style="color: #000000;"><span>&nbsp; </span></span><span style="color: #000000;">0.03%</span><span style="color: #000000;"> </span><span style="color: #000000;">포인트 적립</span></span><br><span><span style="color: #000000;">소멸 </span><span style="color: #000000;">: 1</span><span style="color: #000000;">년의 유효기간 경과 후 포인트 소멸</span></span><br><span style="color: #000000;">사용 </span><span style="color: #000000;">: </span><span style="color: #000000;">예약 시 사용가능</span></td></tr></tbody></table>
 
@@ -179,11 +179,13 @@
 
 -   등록 - 회원,객실
 
-[##_Image|kage@edabfu/btrdJkdLXvf/AVasNv8NzHoMvvFnHq9GK0/img.png|alignCenter|data-origin-width="789" data-origin-height="588" data-ke-mobilestyle="widthOrigin"|||_##]
+![image](https://user-images.githubusercontent.com/84883330/131537609-d39cc735-ebe5-4ad7-9767-17465d474e1e.png)
 
 <table style="border-collapse: collapse; width: 68.3177%; height: 70px;" border="1" width="219" data-ke-align="alignLeft" data-ke-style="style3"><tbody><tr style="height: 10px;"><td style="width: 99.8296%; height: 10px; text-align: center;" colspan="2"><span style="color: #000000;"><b>DEVELOP Description</b><br></span></td></tr><tr style="height: 10px;"><td style="width: 5.62181%; height: 10px;" height="10px"><span style="color: #000000;">1</span></td><td style="width: 94.2078%; height: 10px;"><span style="color: #000000;">예약에 필요한 객실 타입과 객실 등록 가능</span></td></tr><tr style="height: 10px;"><td style="width: 5.62181%; height: 10px;"><span style="color: #000000;">2</span></td><td style="width: 94.2078%; height: 10px;"><span style="color: #000000;">예약 패키지 등록 가능</span></td></tr><tr><td style="width: 5.62181%;"><span style="color: #000000;">3</span></td><td style="width: 94.2078%;"><span style="color: #000000;"><span style="color: #000000;">예약 패키지 </span><span style="color: #000000;">부가시설</span><span style="color: #000000;"> 등록 가능</span></span></td></tr></tbody></table>
 
--   조회 - 회원, 예약상품, 예약내역[##_Image|kage@beoqHN/btrdIMVVm5W/deafrJ917Crp9X8d7zkwX1/img.png|alignCenter|data-origin-width="999" data-origin-height="633" data-ke-mobilestyle="widthOrigin"|||_##]
+-   조회 - 회원, 예약상품, 예약내역
+
+![image](https://user-images.githubusercontent.com/84883330/131537633-cc89bc5a-6116-4b01-869f-b9e3d21c9087.png)
 
 <table style="border-collapse: collapse; width: 68.3177%; height: 70px;" border="1" width="219" data-ke-align="alignLeft" data-ke-style="style3"><tbody><tr style="height: 10px;"><td style="width: 99.8296%; height: 10px;" colspan="2"><span style="color: #000000;"><b>DEVELOP Description</b><br></span></td></tr><tr style="height: 10px;"><td style="width: 5.62181%; height: 10px;" height="10px"><span style="color: #000000;">1</span></td><td style="width: 94.2078%; height: 10px;">가입한 회원 리스트,&nbsp;<span style="color: #000000;">상세정보 확인가능</span></td></tr><tr style="height: 10px;"><td style="width: 5.62181%; height: 10px;"><span style="color: #000000;">2</span></td><td style="width: 94.2078%; height: 10px;"><span style="color: #000000;">등록한<span>&nbsp;</span></span><span style="color: #000000;">객실목록</span><span style="color: #000000;"><span>&nbsp;</span>확인 가능</span><span style="color: #000000;"><br></span><span style="color: #000000;">각 옵션</span><span style="color: #000000;">,<span>&nbsp;</span></span><span style="color: #000000;">상태별로</span><span style="color: #000000;"><span>&nbsp;</span>필터링</span><span style="color: #000000;">하여 검색 가능</span></td></tr><tr><td style="width: 5.62181%;"><span style="color: #000000;">3</span></td><td style="width: 94.2078%;"><span><span style="color: #000000;">회원 예약내역 확인 가능</span><span style="color: #000000;"></span></span></td></tr><tr><td style="width: 5.62181%;"><span style="color: #000000;">4</span></td><td style="width: 94.2078%;"><span style="color: #000000;">예약 패키지의 여가시설 확인 가능</span></td></tr></tbody></table>
 
