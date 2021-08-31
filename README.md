@@ -8,13 +8,14 @@
 [6\. 기능 설명](#6-기능-설명)  
 [7\. 후기](#7-후기)
 
-<br/><br/><br/>
 \* '파라다이스호텔 부산' 을 벤치마킹한 프로젝트입니다!
 
 사이트 주소 : [https://www.busanparadisehotel.co.kr/front](https://www.busanparadisehotel.co.kr/front)
 
 -   hotel Delluna 사이트 : [http://3.38.102.192:8080/](http://3.38.102.192:8080/)
 -   github 사이트 : [https://github.com/dojh555/hotelDelluna](https://github.com/dojh555/hotelDelluna)
+
+<br/><br/><br/>
 
 ---
 
