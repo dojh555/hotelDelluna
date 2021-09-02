@@ -15,7 +15,7 @@ public class IndexController {
 	@Autowired IPointEventDAO pointEventDAO;
 	@Autowired IPointDetailDAO pointDetailDAO;
 	
-	@RequestMapping("/index")
+	@RequestMapping(value={"/index","/"})
 	public ModelAndView 인덱스로가기(HttpSession session) {
 		
 		if(session.getAttribute("no") != null) {

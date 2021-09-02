@@ -27,8 +27,9 @@
     -->
             <Resource name="jdbc/mycp" auth="Container" type="javax.sql.DataSource"
               maxActive="10" maxIdle="3" maxWait="10000"
-              username="root" password="1234"
+              username="admin" password="admin123"
               driverClassName="com.mysql.cj.jdbc.Driver"
-              url="jdbc:mysql://localhost:3306/hotel?useUnicode=true"
+              url="jdbc:mysql://forhoteldb.cggoqsbprvls.ap-northeast-2.rds.amazonaws.com:3306/hotel?useUnicode=true"
               closeMethod="close" />
+    
 </Context>

@@ -20,9 +20,9 @@ public class MyBatisConfig {
 	@Bean
 	public DataSource dataSource() {
 		String driverClassName = "com.mysql.cj.jdbc.Driver";
-		String url = "jdbc:mysql://localhost:3306/hotel?useUnicode=true";
-		String userName = "root";
-		String password = "1234";
+		String url = "jdbc:mysql://forhoteldb.cggoqsbprvls.ap-northeast-2.rds.amazonaws.com:3306/hotel?useUnicode=true";
+		String userName = "admin";
+		String password = "admin123";
 		BasicDataSource dataSource = new BasicDataSource();
 		dataSource.setDriverClassName(driverClassName);
 		dataSource.setUrl(url);
