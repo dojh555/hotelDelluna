@@ -13,6 +13,7 @@
 사이트 주소 : [https://www.busanparadisehotel.co.kr/front](https://www.busanparadisehotel.co.kr/front)
 
 -   hotel Delluna 사이트 : [http://3.38.102.192:8080/](http://3.38.102.192:8080/)
+
 관리자용 ID : admin
 
 관리자용 PW : admin123!
